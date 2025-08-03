@@ -17,5 +17,5 @@ A collection of beginner-friendly AI tools built with Python, including language
 
 ---
 
-## 📁 Folder Structure
+
 
